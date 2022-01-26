@@ -1,0 +1,7 @@
+
+# omit all checkpoints
+model/*
+recon/*
+
+# omit training data
+Data/cave/*
